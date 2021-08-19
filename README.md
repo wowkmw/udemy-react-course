@@ -1,3 +1,3 @@
-# 01-starting-setup
+# udemy-react-course
 
 Udemy React course repository
