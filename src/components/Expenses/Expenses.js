@@ -10,7 +10,7 @@ const Expenses = props => {
             <ExpenseItem expense={props.items[2]} />
             <ExpenseItem expense={props.items[3]} />
         </Card>
-    )
+    );
 }
 
 export default Expenses;
